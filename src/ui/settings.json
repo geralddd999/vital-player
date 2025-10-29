@@ -1,0 +1,12 @@
+{
+    "appearance": {
+        "userPfpUrl": "",
+        "theme": "light"
+    },
+    "library": {
+        "musicDirectories": [
+            "C:/Users/YourUser/Music",
+            "D:/Shared/Audio"
+        ]
+    }
+}
