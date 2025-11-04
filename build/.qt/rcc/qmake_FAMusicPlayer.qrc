@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/FAMusicPlayer">
-    <file alias="qmldir">/home/geronimo/Projects/Vital Player/build/FAMusicPlayer/qmldir</file>
-  </qresource>
-</RCC>
-

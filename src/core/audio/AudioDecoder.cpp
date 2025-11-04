@@ -198,7 +198,7 @@ bool AudioDecoder::readAudioFrame(AudioFrame& audio_frame){
             //another type of error occurred
             char err[AV_ERROR_MAX_STRING_SIZE] = {0};
             av_strerror(ret,err, AV_ERROR_MAX_STRING_SIZE);
-            fprintf(stderr, err);
+            fprintf(stderr, "%s",err);
 
             av_frame_unref(track_frame);
             av_packet_unref(track_packet);

@@ -76,5 +76,5 @@
         "valarray": "cpp",
         "variant": "cpp"
     },
-    "cmake.sourceDirectory": "/home/geronimo/Projects/Vital Player/src/ui"
+    "cmake.sourceDirectory": "/home/geronimo/Projects/vital-player/src/ui"
 }
