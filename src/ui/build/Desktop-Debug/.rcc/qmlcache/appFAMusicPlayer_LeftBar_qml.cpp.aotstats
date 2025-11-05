@@ -1,0 +1,263 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 13,
+                            "durationMicroseconds": 193,
+                            "functionName": "height",
+                            "line": 6,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 86,
+                            "functionName": "width",
+                            "line": 15,
+                            "message": "Cannot access value for name sideBar"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 24,
+                            "functionName": "height",
+                            "line": 16,
+                            "message": "Cannot access value for name buttonHeight"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 138,
+                            "functionName": "horizontalCenter",
+                            "line": 14,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 67,
+                            "functionName": "fill",
+                            "line": 19,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 27,
+                            "durationMicroseconds": 67,
+                            "functionName": "color",
+                            "line": 22,
+                            "message": "Cannot retrieve a non-object type by ID: searchBarTextQuery"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 29,
+                            "message": "Could not find property \"width\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "background",
+                            "line": 32,
+                            "message": "Could not find property \"background\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 28,
+                            "durationMicroseconds": 0,
+                            "functionName": "onPressed",
+                            "line": 33,
+                            "message": "Could not find signal \"pressed\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "verticalCenter",
+                            "line": 27,
+                            "message": "Could not find property \"verticalCenter\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "left",
+                            "line": 28,
+                            "message": "Could not find property \"left\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 67,
+                            "functionName": "width",
+                            "line": 49,
+                            "message": "Cannot access value for name sideBar"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 26,
+                            "functionName": "height",
+                            "line": 50,
+                            "message": "Cannot access value for name buttonHeight"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 32,
+                            "functionName": "right",
+                            "line": 51,
+                            "message": "Cannot access value for name sideBar"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 19,
+                            "durationMicroseconds": 47,
+                            "functionName": "text",
+                            "line": 54,
+                            "message": "Cannot access value for name separatorName"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 111,
+                            "functionName": "verticalCenter",
+                            "line": 57,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 67,
+                            "functionName": "width",
+                            "line": 70,
+                            "message": "Cannot access value for name sideBar"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 22,
+                            "functionName": "height",
+                            "line": 71,
+                            "message": "Cannot access value for name buttonHeight"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 131,
+                            "functionName": "horizontalCenter",
+                            "line": 72,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 62,
+                            "functionName": "fill",
+                            "line": 78,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 83,
+                            "functionName": "visible",
+                            "line": 86,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 58,
+                            "functionName": "fill",
+                            "line": 84,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 22,
+                            "durationMicroseconds": 43,
+                            "functionName": "spacing",
+                            "line": 93,
+                            "message": "Cannot access value for name margins"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 101,
+                            "functionName": "verticalCenter",
+                            "line": 91,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 36,
+                            "durationMicroseconds": 97,
+                            "functionName": "preferredWidth",
+                            "line": 92,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 26,
+                            "durationMicroseconds": 39,
+                            "functionName": "source",
+                            "line": 97,
+                            "message": "Cannot access value for name iconSourceBaseName"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 48,
+                            "functionName": "preferredWidth",
+                            "line": 99,
+                            "message": "Cannot access value for name buttonHeight"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 41,
+                            "functionName": "preferredHeight",
+                            "line": 100,
+                            "message": "Cannot access value for name buttonHeight"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 23,
+                            "durationMicroseconds": 30,
+                            "functionName": "text",
+                            "line": 104,
+                            "message": "Cannot access value for name listButtonName"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 16,
+                            "durationMicroseconds": 131,
+                            "functionName": "width",
+                            "line": 111,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 20,
+                            "durationMicroseconds": 85,
+                            "functionName": "width",
+                            "line": 120,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "/home/geronimo/Projects/vital-player/src/ui/LeftBar.qml"
+                }
+            ],
+            "moduleId": "FAMusicPlayer(appFAMusicPlayer)"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+-I
+/home/geronimo/Projects/vital-player/src/ui/build/Desktop-Debug
+-I
+/nix/store/rz0lc8irp5knfzwakm86p3ifkflr1w1i-qtdeclarative-6.10.0/lib/qt-6/qml
+--resource
+/home/geronimo/Projects/vital-player/src/ui/build/Desktop-Debug/.qt/rcc/qmake_FAMusicPlayer.qrc
+--resource
+/home/geronimo/Projects/vital-player/src/ui/build/Desktop-Debug/.qt/rcc/appFAMusicPlayer_raw_qml_0.qrc
+--resource
+/home/geronimo/Projects/vital-player/src/ui/build/Desktop-Debug/.qt/rcc/appFAMusicPlayer_raw_res_0.qrc
+--module
+FAMusicPlayer

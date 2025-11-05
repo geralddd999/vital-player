@@ -11,16 +11,18 @@
       system = "x86_64-linux";
     in
     {
-      devshells."${system}".default =
+      devShells."${system}".default =
         let
           pkgs = import nixpkgs { inherit system; };
         in
         pkgs.mkShell {
 
           packages = with pkgs; [
-            qt6.full
-            qt6.declarative
-            qt6.qtbase
+            qt6Packages.qtdeclarative
+            qt6Packages.qtbase
+            qt6Packages.qttools
+            qtcreator
+            clang-tools
             SDL2
             SDL2_mixer
             ffmpeg
@@ -30,10 +32,13 @@
             cmake
             pkg-config
           ];
-
+          #check later
           shellHook = ''
-            echo "entered qt/c++ dev session"
 
+            export QT_PLUGIN_PATH="${pkgs.qt6Packages.qtbase}/lib/qt-6/plugins"
+            export QML_IMPORT_PATH="${pkgs.qt6Packages.qtdeclarative}/qml"
+
+            echo "entered qt/c++ dev session"
           '';
         };
     };

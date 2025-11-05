@@ -1,0 +1,12 @@
+module FAMusicPlayer
+typeinfo appFAMusicPlayer.qmltypes
+prefer :/qt/qml/FAMusicPlayer/
+Main 1.0 Main.qml
+MediaBar 1.0 MediaBar.qml
+ConfigWindow 1.0 ConfigWindow.qml
+LeftBar 1.0 LeftBar.qml
+CompactLeftBar 1.0 CompactLeftBar.qml
+VerticalTabBar 1.0 VerticalTabBar.qml
+AlbumGrid 1.0 AlbumGrid.qml
+depends QtQuick
+

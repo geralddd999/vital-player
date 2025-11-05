@@ -1,0 +1,13 @@
+--resource
+/home/geronimo/Projects/vital-player/src/ui/build/Desktop-Debug/.qt/rcc/qmake_FAMusicPlayer.qrc
+--resource
+/home/geronimo/Projects/vital-player/src/ui/build/Desktop-Debug/.qt/rcc/appFAMusicPlayer_raw_qml_0.qrc
+--resource
+/home/geronimo/Projects/vital-player/src/ui/build/Desktop-Debug/.qt/rcc/appFAMusicPlayer_raw_res_0.qrc
+/qt/qml/FAMusicPlayer/Main.qml
+/qt/qml/FAMusicPlayer/MediaBar.qml
+/qt/qml/FAMusicPlayer/ConfigWindow.qml
+/qt/qml/FAMusicPlayer/LeftBar.qml
+/qt/qml/FAMusicPlayer/CompactLeftBar.qml
+/qt/qml/FAMusicPlayer/VerticalTabBar.qml
+/qt/qml/FAMusicPlayer/AlbumGrid.qml

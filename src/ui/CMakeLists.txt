@@ -28,8 +28,8 @@ qt_add_qml_module(appFAMusicPlayer
         QML_FILES CompactLeftBar.qml
         RESOURCES settings.json
         QML_FILES VerticalTabBar.qml
-SOURCES ../core/audio/AudioDecoder.cpp ../core/audio/AudioDecoder.h ../core/audio/AudioFrame.h ../core/audio/AudioPlayer.cpp ../core/audio/AudioPlayer.h ../core/audio/AudioPlayerQMLIntegration.h ../core/audio/AudioPlayerv2.h ../core/audio/main.cpp
-RESOURCES ../core/audio/MyPlayer
+        QML_FILES AlbumGrid.qml
+
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

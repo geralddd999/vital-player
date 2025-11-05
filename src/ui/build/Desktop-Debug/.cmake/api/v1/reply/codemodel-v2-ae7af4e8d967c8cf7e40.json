@@ -1,0 +1,205 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-43aba6951758ec0b9dc1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FAMusicPlayer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-26d25e02c2fed819bd22.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-0fc5b755999bc0c1c290.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-7c581538e55298dc09cd.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-c2db86f953bd19d394a2.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-062721bb96910b2927f0.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFAMusicPlayer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFAMusicPlayer-Debug-8b60cf8a729b6bae155d.json",
+					"name" : "appFAMusicPlayer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFAMusicPlayer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFAMusicPlayer_autogen-Debug-f83c99ea923cd3c3aec3.json",
+					"name" : "appFAMusicPlayer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFAMusicPlayer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFAMusicPlayer_autogen_timestamp_deps-Debug-c482c2a482cffaa8149d.json",
+					"name" : "appFAMusicPlayer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFAMusicPlayer_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFAMusicPlayer_copy_qml-Debug-6a901da44294312b5e99.json",
+					"name" : "appFAMusicPlayer_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFAMusicPlayer_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFAMusicPlayer_copy_res-Debug-b62ad872c0dd888624c6.json",
+					"name" : "appFAMusicPlayer_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFAMusicPlayer_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFAMusicPlayer_qmlimportscan-Debug-22cf8f11289bcf3583e6.json",
+					"name" : "appFAMusicPlayer_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFAMusicPlayer_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFAMusicPlayer_qmllint-Debug-4457a8d1f4006e50ae3d.json",
+					"name" : "appFAMusicPlayer_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFAMusicPlayer_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFAMusicPlayer_qmllint_json-Debug-a16181e4ac9772b0be3a.json",
+					"name" : "appFAMusicPlayer_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFAMusicPlayer_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFAMusicPlayer_qmllint_module-Debug-8b1bba1132ad0e84e3bb.json",
+					"name" : "appFAMusicPlayer_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFAMusicPlayer_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFAMusicPlayer_qmltyperegistration-Debug-e4b1bc22d5f7127941f0.json",
+					"name" : "appFAMusicPlayer_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-db147e57911a65a11968.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appFAMusicPlayer_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appFAMusicPlayer_aotstats_target-Debug-0333bd605e2e18aec3f2.json",
+					"name" : "module_appFAMusicPlayer_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/geronimo/Projects/vital-player/src/ui/build/Desktop-Debug",
+		"source" : "/home/geronimo/Projects/vital-player/src/ui"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

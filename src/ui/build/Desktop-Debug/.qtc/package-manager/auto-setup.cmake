@@ -30,7 +30,7 @@ function(qtc_modify_default_install_prefix)
 
   # Do the original CMAKE_INSTALL_PREFIX detection
   if(CMAKE_HOST_UNIX)
-    set(original_cmake_install_prefix "/var/empty/local")
+    set(original_cmake_install_prefix "/usr/local")
   else()
     GetDefaultWindowsPrefixBase(CMAKE_GENERIC_PROGRAM_FILES)
     set(original_cmake_install_prefix

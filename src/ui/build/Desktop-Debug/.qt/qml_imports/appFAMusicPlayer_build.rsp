@@ -1,0 +1,15 @@
+-rootPath
+/home/geronimo/Projects/vital-player/src/ui
+-cmake-output
+-output-file
+/home/geronimo/Projects/vital-player/src/ui/build/Desktop-Debug/.qt/qml_imports/appFAMusicPlayer_build.cmake
+-importPath
+/home/geronimo/Projects/vital-player/src/ui/build/Desktop-Debug/FAMusicPlayer
+-importPath
+/home/geronimo/Projects/vital-player/src/ui/build/Desktop-Debug
+-importPath
+/nix/store/rz0lc8irp5knfzwakm86p3ifkflr1w1i-qtdeclarative-6.10.0/lib/qt-6/qml
+-qrcFiles
+/home/geronimo/Projects/vital-player/src/ui/build/Desktop-Debug/.qt/rcc/qmake_FAMusicPlayer.qrc
+/home/geronimo/Projects/vital-player/src/ui/build/Desktop-Debug/.qt/rcc/appFAMusicPlayer_raw_qml_0.qrc
+/home/geronimo/Projects/vital-player/src/ui/build/Desktop-Debug/.qt/rcc/appFAMusicPlayer_raw_res_0.qrc

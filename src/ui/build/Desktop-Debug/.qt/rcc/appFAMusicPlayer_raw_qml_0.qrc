@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/qt/qml/FAMusicPlayer/">
+    <file alias="Main.qml">/home/geronimo/Projects/vital-player/src/ui/Main.qml</file>
+    <file alias="MediaBar.qml">/home/geronimo/Projects/vital-player/src/ui/MediaBar.qml</file>
+    <file alias="ConfigWindow.qml">/home/geronimo/Projects/vital-player/src/ui/ConfigWindow.qml</file>
+    <file alias="LeftBar.qml">/home/geronimo/Projects/vital-player/src/ui/LeftBar.qml</file>
+    <file alias="CompactLeftBar.qml">/home/geronimo/Projects/vital-player/src/ui/CompactLeftBar.qml</file>
+    <file alias="VerticalTabBar.qml">/home/geronimo/Projects/vital-player/src/ui/VerticalTabBar.qml</file>
+    <file alias="AlbumGrid.qml">/home/geronimo/Projects/vital-player/src/ui/AlbumGrid.qml</file>
+  </qresource>
+</RCC>
+
