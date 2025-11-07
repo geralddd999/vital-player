@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 23,
-                            "durationMicroseconds": 36,
+                            "durationMicroseconds": 37,
                             "functionName": "text",
                             "line": 48,
                             "message": "Cannot access value for name control"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 2,
                             "column": 23,
-                            "durationMicroseconds": 28,
+                            "durationMicroseconds": 30,
                             "functionName": "font",
                             "line": 49,
                             "message": "Cannot access value for name control"
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 38,
-                            "durationMicroseconds": 329,
+                            "durationMicroseconds": 325,
                             "functionName": "horizontalAlignment",
                             "line": 51,
                             "message": "Cannot access value for name Text"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 36,
-                            "durationMicroseconds": 250,
+                            "durationMicroseconds": 285,
                             "functionName": "verticalAlignment",
                             "line": 52,
                             "message": "Cannot access value for name Text"
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 47,
+                            "durationMicroseconds": 49,
                             "functionName": "color",
                             "line": 55,
                             "message": "Cannot access value for name control"

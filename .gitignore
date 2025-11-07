@@ -1,0 +1,29 @@
+# Ignore CMake build outputs for the UI
+src/ui/build/
+src/ui/**/CMakeFiles/
+src/ui/**/CMakeCache.txt
+src/ui/**/cmake_install.cmake
+src/ui/**/build.ninja
+src/ui/**/Makefile
+
+# Ignore Qt/CMake generated artifacts (autogen, qmltypes, module maps)
+src/ui/**/appFAMusicPlayer_autogen/
+src/ui/**/appFAMusicPlayer.qmltypes
+src/ui/**/qmltypes/
+src/ui/**/FAMusicPlayer/
+src/ui/**/qmldir
+
+# Common compiled/binary artifacts
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.exe
+*.out
+
+# Editor/IDE files
+.vscode/
+.zed/
+.src/ui/.qtcreator/
+

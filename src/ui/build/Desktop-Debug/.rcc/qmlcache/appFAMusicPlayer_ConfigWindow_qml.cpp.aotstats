@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 20,
-                            "durationMicroseconds": 144,
+                            "durationMicroseconds": 132,
                             "functionName": "maximumHeight",
                             "line": 7,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 50,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 84,
                             "functionName": "maximumWidth",
                             "line": 7,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 73,
+                            "durationMicroseconds": 91,
                             "functionName": "fill",
                             "line": 20,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 43,
-                            "durationMicroseconds": 114,
+                            "durationMicroseconds": 179,
                             "functionName": "horizontalCenter",
                             "line": 28,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 91,
+                            "durationMicroseconds": 127,
                             "functionName": "currentIndex",
                             "line": 54,
                             "message": ""

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 35,
-                            "durationMicroseconds": 304,
+                            "durationMicroseconds": 280,
                             "functionName": "availableSpace",
                             "line": 15,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 41,
+                            "durationMicroseconds": 44,
                             "functionName": "width",
                             "line": 19,
                             "message": "Cannot access value for name availableSpace"
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 108,
+                            "durationMicroseconds": 116,
                             "functionName": "left",
                             "line": 20,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 0,
                             "column": 20,
-                            "durationMicroseconds": 62,
+                            "durationMicroseconds": 71,
                             "functionName": "width",
                             "line": 24,
                             "message": ""
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 49,
+                            "durationMicroseconds": 48,
                             "functionName": "height",
                             "line": 24,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 119,
+                            "durationMicroseconds": 96,
                             "functionName": "verticalCenter",
                             "line": 25,
                             "message": ""
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 2,
                             "column": 25,
-                            "durationMicroseconds": 43,
+                            "durationMicroseconds": 45,
                             "functionName": "source",
                             "line": 29,
                             "message": "Cannot access value for name sourceBaseName"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 106,
+                            "durationMicroseconds": 129,
                             "functionName": "acceptedButtons",
                             "line": 33,
                             "message": ""
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 38,
+                            "durationMicroseconds": 39,
                             "functionName": "onClicked",
                             "line": 34,
                             "message": ""
@@ -96,7 +96,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 40,
+                            "durationMicroseconds": 41,
                             "functionName": "onClicked",
                             "line": 34,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 35,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 58,
                             "functionName": "fill",
                             "line": 32,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 39,
-                            "durationMicroseconds": 95,
+                            "durationMicroseconds": 93,
                             "functionName": "horizontalCenter",
                             "line": 44,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 39,
-                            "durationMicroseconds": 117,
+                            "durationMicroseconds": 88,
                             "functionName": "horizontalCenter",
                             "line": 64,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 0,
                             "column": 39,
-                            "durationMicroseconds": 90,
+                            "durationMicroseconds": 88,
                             "functionName": "horizontalCenter",
                             "line": 69,
                             "message": ""
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 76,
+                            "durationMicroseconds": 77,
                             "functionName": "height",
                             "line": 77,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 0,
                             "column": 16,
-                            "durationMicroseconds": 118,
+                            "durationMicroseconds": 136,
                             "functionName": "width",
                             "line": 78,
                             "message": ""
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 0,
                             "column": 35,
-                            "durationMicroseconds": 91,
+                            "durationMicroseconds": 92,
                             "functionName": "horizontalCenter",
                             "line": 76,
                             "message": ""
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 27,
-                            "durationMicroseconds": 57,
+                            "durationMicroseconds": 59,
                             "functionName": "fill",
                             "line": 90,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 24,
-                            "durationMicroseconds": 148,
+                            "durationMicroseconds": 152,
                             "functionName": "width",
                             "line": 97,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 120,
+                            "durationMicroseconds": 130,
                             "functionName": "left",
                             "line": 96,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 92,
+                            "durationMicroseconds": 101,
                             "functionName": "top",
                             "line": 104,
                             "message": ""
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 93,
+                            "durationMicroseconds": 201,
                             "functionName": "top",
                             "line": 109,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 92,
+                            "durationMicroseconds": 130,
                             "functionName": "top",
                             "line": 114,
                             "message": ""
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 24,
-                            "durationMicroseconds": 85,
+                            "durationMicroseconds": 102,
                             "functionName": "width",
                             "line": 131,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 0,
                             "column": 47,
-                            "durationMicroseconds": 69,
+                            "durationMicroseconds": 82,
                             "functionName": "height",
                             "line": 131,
                             "message": ""
@@ -272,7 +272,7 @@
                         {
                             "codegenResult": 0,
                             "column": 41,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 95,
                             "functionName": "verticalCenter",
                             "line": 132,
                             "message": ""
@@ -280,7 +280,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 83,
+                            "durationMicroseconds": 88,
                             "functionName": "left",
                             "line": 133,
                             "message": ""
@@ -288,7 +288,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 44,
+                            "durationMicroseconds": 41,
                             "functionName": "width",
                             "line": 140,
                             "message": "Cannot access value for name availableSpace"
@@ -296,7 +296,7 @@
                         {
                             "codegenResult": 0,
                             "column": 17,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 1132,
                             "functionName": "height",
                             "line": 141,
                             "message": ""
@@ -304,7 +304,7 @@
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 123,
                             "functionName": "left",
                             "line": 142,
                             "message": ""
@@ -312,7 +312,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 81,
+                            "durationMicroseconds": 91,
                             "functionName": "bottom",
                             "line": 143,
                             "message": ""
@@ -320,7 +320,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 87,
+                            "durationMicroseconds": 95,
                             "functionName": "verticalCenter",
                             "line": 151,
                             "message": ""
@@ -328,7 +328,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 90,
                             "functionName": "verticalCenter",
                             "line": 156,
                             "message": ""
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 0,
                             "column": 28,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 81,
                             "functionName": "right",
                             "line": 157,
                             "message": ""
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 58,
+                            "durationMicroseconds": 61,
                             "functionName": "fill",
                             "line": 164,
                             "message": ""
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 2,
                             "column": 30,
-                            "durationMicroseconds": 42,
+                            "durationMicroseconds": 51,
                             "functionName": "source",
                             "line": 166,
                             "message": "Cannot access value for name userIconSourceName"
@@ -360,7 +360,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 60,
+                            "durationMicroseconds": 82,
                             "functionName": "fill",
                             "line": 167,
                             "message": ""
@@ -368,7 +368,7 @@
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 98,
+                            "durationMicroseconds": 191,
                             "functionName": "acceptedButtons",
                             "line": 173,
                             "message": ""
@@ -376,7 +376,7 @@
                         {
                             "codegenResult": 2,
                             "column": 27,
-                            "durationMicroseconds": 100,
+                            "durationMicroseconds": 158,
                             "functionName": "onClicked",
                             "line": 174,
                             "message": "Cannot retrieve a non-object type by ID: userIconMenu"
@@ -384,7 +384,7 @@
                         {
                             "codegenResult": 0,
                             "column": 27,
-                            "durationMicroseconds": 47,
+                            "durationMicroseconds": 77,
                             "functionName": "onClicked",
                             "line": 174,
                             "message": ""
@@ -392,7 +392,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 61,
+                            "durationMicroseconds": 92,
                             "functionName": "fill",
                             "line": 172,
                             "message": ""

@@ -1,7 +1,8 @@
 #ifndef AUDIOPLAYERQMLINTEGRATION_H
 #define AUDIOPLAYERQMLINTEGRATION_H
 
-//#include <QObject>
+
+#include <QObject>
 //#include <QString>
 //#include <QThread>
 //#include <QTimer>

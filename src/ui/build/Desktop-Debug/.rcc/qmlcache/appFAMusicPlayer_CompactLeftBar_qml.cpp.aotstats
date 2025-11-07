@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 0,
                             "column": 13,
-                            "durationMicroseconds": 197,
+                            "durationMicroseconds": 213,
                             "functionName": "height",
                             "line": 160,
                             "message": ""
@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 20,
-                            "durationMicroseconds": 105,
+                            "durationMicroseconds": 100,
                             "functionName": "wrapMode",
                             "line": 12,
                             "message": ""
@@ -24,7 +24,7 @@
                         {
                             "codegenResult": 0,
                             "column": 16,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 73,
                             "functionName": "elide",
                             "line": 13,
                             "message": ""
@@ -32,7 +32,7 @@
                         {
                             "codegenResult": 0,
                             "column": 16,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 87,
                             "functionName": "width",
                             "line": 20,
                             "message": ""
@@ -40,7 +40,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 44,
+                            "durationMicroseconds": 45,
                             "functionName": "height",
                             "line": 23,
                             "message": "Cannot access value for name buttonHeight"
@@ -48,7 +48,7 @@
                         {
                             "codegenResult": 0,
                             "column": 27,
-                            "durationMicroseconds": 101,
+                            "durationMicroseconds": 83,
                             "functionName": "alignment",
                             "line": 18,
                             "message": ""
@@ -56,7 +56,7 @@
                         {
                             "codegenResult": 2,
                             "column": 19,
-                            "durationMicroseconds": 58,
+                            "durationMicroseconds": 57,
                             "functionName": "text",
                             "line": 27,
                             "message": "Cannot access value for name separatorName"
@@ -64,7 +64,7 @@
                         {
                             "codegenResult": 0,
                             "column": 31,
-                            "durationMicroseconds": 71,
+                            "durationMicroseconds": 67,
                             "functionName": "centerIn",
                             "line": 30,
                             "message": ""
@@ -72,7 +72,7 @@
                         {
                             "codegenResult": 2,
                             "column": 16,
-                            "durationMicroseconds": 52,
+                            "durationMicroseconds": 51,
                             "functionName": "width",
                             "line": 39,
                             "message": "Cannot access value for name margins"
@@ -80,7 +80,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 27,
+                            "durationMicroseconds": 28,
                             "functionName": "height",
                             "line": 40,
                             "message": "Cannot access value for name buttonHeight"
@@ -88,7 +88,7 @@
                         {
                             "codegenResult": 0,
                             "column": 27,
-                            "durationMicroseconds": 78,
+                            "durationMicroseconds": 107,
                             "functionName": "alignment",
                             "line": 42,
                             "message": ""
@@ -104,7 +104,7 @@
                         {
                             "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 97,
+                            "durationMicroseconds": 83,
                             "functionName": "visible",
                             "line": 55,
                             "message": ""
@@ -112,7 +112,7 @@
                         {
                             "codegenResult": 0,
                             "column": 27,
-                            "durationMicroseconds": 57,
+                            "durationMicroseconds": 56,
                             "functionName": "fill",
                             "line": 53,
                             "message": ""
@@ -120,7 +120,7 @@
                         {
                             "codegenResult": 2,
                             "column": 22,
-                            "durationMicroseconds": 41,
+                            "durationMicroseconds": 44,
                             "functionName": "spacing",
                             "line": 62,
                             "message": "Cannot access value for name margins"
@@ -128,7 +128,7 @@
                         {
                             "codegenResult": 0,
                             "column": 37,
-                            "durationMicroseconds": 103,
+                            "durationMicroseconds": 135,
                             "functionName": "verticalCenter",
                             "line": 58,
                             "message": ""
@@ -136,7 +136,7 @@
                         {
                             "codegenResult": 0,
                             "column": 39,
-                            "durationMicroseconds": 116,
+                            "durationMicroseconds": 146,
                             "functionName": "horizontalCenter",
                             "line": 59,
                             "message": ""
@@ -144,7 +144,7 @@
                         {
                             "codegenResult": 2,
                             "column": 26,
-                            "durationMicroseconds": 42,
+                            "durationMicroseconds": 67,
                             "functionName": "source",
                             "line": 66,
                             "message": "Cannot access value for name iconSourceBaseName"
@@ -152,7 +152,7 @@
                         {
                             "codegenResult": 0,
                             "column": 35,
-                            "durationMicroseconds": 80,
+                            "durationMicroseconds": 113,
                             "functionName": "alignment",
                             "line": 67,
                             "message": ""
@@ -160,7 +160,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 42,
+                            "durationMicroseconds": 50,
                             "functionName": "preferredWidth",
                             "line": 68,
                             "message": "Cannot access value for name buttonHeight"
@@ -168,7 +168,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 31,
+                            "durationMicroseconds": 56,
                             "functionName": "preferredHeight",
                             "line": 69,
                             "message": "Cannot access value for name buttonHeight"
@@ -176,7 +176,7 @@
                         {
                             "codegenResult": 2,
                             "column": 23,
-                            "durationMicroseconds": 33,
+                            "durationMicroseconds": 61,
                             "functionName": "text",
                             "line": 74,
                             "message": "Cannot access value for name listButtonName"
@@ -184,7 +184,7 @@
                         {
                             "codegenResult": 0,
                             "column": 25,
-                            "durationMicroseconds": 90,
+                            "durationMicroseconds": 145,
                             "functionName": "width",
                             "line": 75,
                             "message": ""
@@ -192,7 +192,7 @@
                         {
                             "codegenResult": 0,
                             "column": 35,
-                            "durationMicroseconds": 76,
+                            "durationMicroseconds": 107,
                             "functionName": "alignment",
                             "line": 73,
                             "message": ""
@@ -200,7 +200,7 @@
                         {
                             "codegenResult": 0,
                             "column": 16,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 110,
                             "functionName": "width",
                             "line": 84,
                             "message": ""
@@ -208,7 +208,7 @@
                         {
                             "codegenResult": 2,
                             "column": 17,
-                            "durationMicroseconds": 34,
+                            "durationMicroseconds": 41,
                             "functionName": "height",
                             "line": 85,
                             "message": "Cannot access value for name buttonHeight"
@@ -216,7 +216,7 @@
                         {
                             "codegenResult": 0,
                             "column": 39,
-                            "durationMicroseconds": 97,
+                            "durationMicroseconds": 106,
                             "functionName": "horizontalCenter",
                             "line": 90,
                             "message": ""
@@ -224,7 +224,7 @@
                         {
                             "codegenResult": 0,
                             "column": 36,
-                            "durationMicroseconds": 97,
+                            "durationMicroseconds": 106,
                             "functionName": "preferredWidth",
                             "line": 91,
                             "message": ""
@@ -232,7 +232,7 @@
                         {
                             "codegenResult": 0,
                             "column": 35,
-                            "durationMicroseconds": 79,
+                            "durationMicroseconds": 80,
                             "functionName": "alignment",
                             "line": 96,
                             "message": ""
@@ -240,7 +240,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 43,
+                            "durationMicroseconds": 45,
                             "functionName": "preferredWidth",
                             "line": 98,
                             "message": "Cannot access value for name buttonHeight"
@@ -248,7 +248,7 @@
                         {
                             "codegenResult": 2,
                             "column": 41,
-                            "durationMicroseconds": 31,
+                            "durationMicroseconds": 33,
                             "functionName": "preferredHeight",
                             "line": 100,
                             "message": "Cannot access value for name buttonHeight"
@@ -256,7 +256,7 @@
                         {
                             "codegenResult": 0,
                             "column": 35,
-                            "durationMicroseconds": 74,
+                            "durationMicroseconds": 75,
                             "functionName": "alignment",
                             "line": 105,
                             "message": ""
@@ -264,7 +264,7 @@
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 50,
+                            "durationMicroseconds": 52,
                             "functionName": "onClicked",
                             "line": 113,
                             "message": "Cannot retrieve a non-object type by ID: searchPopup"
@@ -336,7 +336,7 @@
                         {
                             "codegenResult": 2,
                             "column": 40,
-                            "durationMicroseconds": 36,
+                            "durationMicroseconds": 37,
                             "functionName": "onCompleted",
                             "line": 148,
                             "message": "method forceActiveFocus cannot be resolved."
@@ -344,7 +344,7 @@
                         {
                             "codegenResult": 0,
                             "column": 16,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 112,
                             "functionName": "width",
                             "line": 169,
                             "message": ""
@@ -352,7 +352,7 @@
                         {
                             "codegenResult": 0,
                             "column": 20,
-                            "durationMicroseconds": 89,
+                            "durationMicroseconds": 92,
                             "functionName": "width",
                             "line": 172,
                             "message": ""
